@@ -23,5 +23,5 @@ in the respective country of the number.
    ```
 3. The app is now up and running and you can access it through the following url
    ```sh
-   http://localhost:8090/
+   http://localhost:8080/
    ```
